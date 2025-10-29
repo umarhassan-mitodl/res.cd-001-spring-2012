@@ -1,0 +1,37 @@
+leftnav:
+- identifier: b3384108-814d-b684-57a8-cf0f3f681bf6
+  name: Leadership Conference Videos
+  pageRef: /pages/leadership-conference-videos/
+  weight: 10
+- identifier: 97422276-f3f3-1f70-f20a-b6f8d0834739
+  name: '2011'
+  pageRef: /pages/leadership-conference-videos/2011
+  parent: b3384108-814d-b684-57a8-cf0f3f681bf6
+  weight: 20
+- identifier: 8c18728a-6057-50aa-76c9-13a27dd3fef0
+  name: '2010'
+  pageRef: /pages/leadership-conference-videos/2010
+  parent: b3384108-814d-b684-57a8-cf0f3f681bf6
+  weight: 30
+- identifier: 7c0cb815-e23f-19e5-dddc-7b7b91c06200
+  name: Empowerment Conference Videos
+  pageRef: /pages/empowerment-conference-videos/
+  weight: 40
+- identifier: d62cf6c8-b594-432a-45d4-96fa01c9e497
+  name: '2012'
+  pageRef: /pages/empowerment-conference-videos/2012
+  parent: 7c0cb815-e23f-19e5-dddc-7b7b91c06200
+  weight: 50
+- identifier: 079ab509-ad9b-4b22-4e50-6f563f393ec2
+  name: '2011'
+  pageRef: /pages/empowerment-conference-videos/2011
+  parent: 7c0cb815-e23f-19e5-dddc-7b7b91c06200
+  weight: 60
+- identifier: 7a2a2722-71a2-d4d3-7188-272c4660337e
+  name: Readings and Resources
+  pageRef: /pages/readings-and-resources
+  weight: 70
+- identifier: faa5ed87-2575-9179-598a-0b7346ef99e1
+  name: Frequently Asked Questions
+  pageRef: /pages/frequently-asked-questions
+  weight: 80
